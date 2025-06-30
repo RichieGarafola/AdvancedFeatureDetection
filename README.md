@@ -21,7 +21,7 @@ This project uses OpenCV to detect a reference **marker image** within a set of 
 
 ```bash
 .
-├── Assessment5_FeatureDetection.ipynb     # Main notebook
+├── AdvancedFeatureDetection.ipynb         # Main notebook
 ├── marker.png                             # Input marker image
 ├── scenes/                                # Folder of scene images to scan
 ├── output/
