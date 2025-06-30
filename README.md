@@ -50,7 +50,7 @@ pip install opencv-python matplotlib numpy
 ### 2. Run the Notebook
 
 ```bash
-jupyter notebook Assessment5_FeatureDetection.ipynb
+jupyter notebook AdvancedFeatureDetection.ipynb
 ```
 
 Follow the prompts to:
